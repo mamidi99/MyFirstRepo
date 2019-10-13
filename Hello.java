@@ -7,7 +7,7 @@ c class HelloWorld {
 	//Prints "Welcome to GIT".
 	System.out.println("Welocme to GIT");
 
- LM Test add and push to my branch-1
+ LM Test add and push to my branch-1 -LM Changes in GIT GUI
 
     }
 
